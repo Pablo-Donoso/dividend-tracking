@@ -1,0 +1,8 @@
+{
+    "name": "Dividend-Tracking",
+    "dockerFile": "Dockerfile",
+    "forwardPorts": [
+        3000
+    ],
+    "remoteUser": "node"
+}
